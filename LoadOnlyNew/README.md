@@ -13,3 +13,7 @@ Lastly, the sql task populates testdata and tbl_logs
 
 
 <img width="486" height="518" alt="image" src="https://github.com/user-attachments/assets/deefc187-7041-4a67-9257-c75447ae7740" />
+
+
+<img width="381" height="410" alt="image" src="https://github.com/user-attachments/assets/f2f7c2a1-a44e-4040-9b6c-c945eab0073f" />
+

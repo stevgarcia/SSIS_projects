@@ -8,4 +8,8 @@ checks with an SQL task and an expression the count over tbl_logs
 the sucess arrow has defined and expression and constraint to allow to update only new files [User::IsFileAlreadyLoaded]==0
 the dataflow task takes the files, makes a row count and delivers the data into a SQL
 Lastly, the sql task populates testdata and tbl_logs
+
+
+
+
 <img width="486" height="518" alt="image" src="https://github.com/user-attachments/assets/deefc187-7041-4a67-9257-c75447ae7740" />
